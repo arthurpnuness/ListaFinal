@@ -1,6 +1,4 @@
-'''Tipos de Variáveis e Suas Funcionalidades
 
-Descreva os tipos de variáveis que estudamos e escreva um script que exemplifique o uso de cada um, incluindo int, float, str, e bool.'''
 
 def menu():
     print('1- Inteiro (int)')
